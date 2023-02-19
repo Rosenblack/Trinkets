@@ -16,10 +16,10 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.shale.horde.trinkets.Main"
+			"net.shale.horde.trinkets.Main"
 		],
 		"client": [
-			"com.shale.horde.trinkets.Client"
+			"net.shale.horde.trinkets.Client"
 		]
 	},
 	"mixins": [

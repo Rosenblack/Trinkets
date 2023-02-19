@@ -1,4 +1,4 @@
-package com.shale.horde.trinkets;
+package net.shale.horde.trinkets;
 
 import net.fabricmc.api.ClientModInitializer;
 

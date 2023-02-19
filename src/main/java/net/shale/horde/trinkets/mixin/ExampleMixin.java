@@ -1,4 +1,4 @@
-package com.shale.horde.trinkets.mixin;
+package net.shale.horde.trinkets.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;
