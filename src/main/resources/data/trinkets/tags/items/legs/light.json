@@ -2,6 +2,10 @@
   "replace": false,
   "values": [
     "minecraft:lantern",
-    "minecraft:soul_lantern"
+    "minecraft:soul_lantern",
+    "lightstones:lightstone",
+    "lightstones:blightstone",
+    "lightstones:corestone",
+    "lightstones:deathstone"
   ]
 }
